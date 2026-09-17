@@ -7,11 +7,11 @@
 <div align="center">
   
   [![Rich](https://img.shields.io/static/v1?message=Portfolio&logo=minetest&label=&color=008e4f&logoColor=white&labelColor=&style=for-the-badge)](https://ryenan.github.io/site/)
-  <img width="36" />
+  <img width="42" />
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=008e4f&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/company/ms-schippers-brasil/posts/?feedView=all)
-  <img width="36" />
+  <img width="42" />
   [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=008e4f&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/msschippersbrasil/)
-  <img width="36" />
+  <img width="42" />
 
 
 </div>
